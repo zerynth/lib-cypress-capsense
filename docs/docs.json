@@ -1,0 +1,10 @@
+{
+    "files": [
+        [
+            "capsense",
+            "capsense.py"
+        ]
+    ],
+    "title": "Cypress Capsense",
+    "version": ""
+}

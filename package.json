@@ -1,0 +1,19 @@
+{
+    "dependencies": {},
+    "description": "Cypress Capsense support",
+    "fullname": "lib.cypress.capsense",
+    "git_pointer": "zerynth://zerynth-libs/cypress-capsense",
+    "info": {
+        "chip_manufacturer": "cypress",
+        "chip_name": "-",
+        "name": "Zerynth Cypress Capsense Library",
+        "type": "Sensor"
+    },
+    "keywords": [
+        "cypress"
+    ],
+    "repo": "official",
+    "title": "Cypress Capsense Library",
+    "version": "r2.2.0",
+    "whatsnew": ""
+}
