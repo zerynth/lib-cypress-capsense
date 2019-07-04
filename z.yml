@@ -1,0 +1,12 @@
+---
+description: Cypress Capsense support
+fullname: lib.cypress.capsense
+info:
+    chip_manufacturer: cypress
+    chip_name: '-'
+    name: Zerynth Cypress Capsense Library
+    type: Sensor
+keywords:
+- cypress
+title: Cypress Capsense Library
+...
